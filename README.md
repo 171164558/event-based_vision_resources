@@ -1440,13 +1440,13 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
 
 ## Datasets (sorted by topic)
 - [Datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
-    - DVS09 - 	DVS128 Dynamic Vision Sensor Silicon Retina
-    - DVSFLOW16 - 	DVS/DAVIS Optical Flow Dataset
-    - DVSACT16 -	DVS Datasets for Object Tracking, Action Recognition and Object Recognition
-    - PRED18 - 	VISUALISE Predator/Prey Dataset
-    - DDD17 - 	DAVIS Driving Dataset 2017
-    - ROSHAMBO17 - 	RoShamBo Rock Scissors Paper game DVS dataset
-    - DHP19 - 	DAVIS Human Pose Estimation and Action Recognition
+    - [DVS09](https://docs.google.com/document/d/e/2PACX-1vTBhmROiMAEA-uVnj61V2LjTH3B-xdoqtrHNC0bMxMQhkgWmvcvBMfBbqVIBEMKOs6x1XgXQZje_1s2/pub) - 	DVS128 Dynamic Vision Sensor Silicon Retina
+    - [DVSFLOW16](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) - 	DVS/DAVIS Optical Flow Dataset
+    - [DVSACT16](http://dgyblog.com/projects-term/dvs-dataset.html) -	DVS Datasets for Object Tracking, Action Recognition and Object Recognition
+    - [PRED18](https://docs.google.com/document/d/e/2PACX-1vQ8HzlVv1ZzUEIfCUfUOUazXi__cacsCMU3LTqECrZk3-8nlyDCe2V29CHh20-cr42j8DrrMkFZGd14/pub) - 	VISUALISE Predator/Prey Dataset
+    - [DDD17](http://goo.gl/ESPs4N) - 	DAVIS Driving Dataset 2017
+    - [ROSHAMBO17](https://docs.google.com/document/d/e/2PACX-1vTNWYgwyhrutBu5GpUSLXC4xSHzBbcZreoj0ljE837m9Uk5FjYymdviBJ5rz-f2R96RHrGfiroHZRoH/pub) - 	RoShamBo Rock Scissors Paper game DVS dataset
+    - [DHP19](https://sites.google.com/view/dhp19/home) - 	DAVIS Human Pose Estimation and Action Recognition
 
 ### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
@@ -1529,6 +1529,17 @@ Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 *[A Large Scale Event-based Detection Dataset for Automotive](https://arxiv.org/abs/2001.08499)*,  
 arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
 - [N-SOD Dataset](https://drive.google.com/drive/folders/10_bnZ_TOcq7xCtCiDcaDiIO3_Txgr19S) associated to the paper [Ramesh et al. FNINS 2020](#Ramesh20fnins).
+
+### Driving
+- <a name="Binas17icmlw"></a>Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
+*[DDD17: End-To-End DAVIS Driving Dataset](https://www.openreview.net/pdf?id=HkehpKVG-),*  
+Int. Conf. Machine Learning, Workshop on Machine Learning for Autonomous Vehicles, 2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
+- <a name="Cheng19cvprw"></a>Cheng, W., Luo, H., Yang, W., Yu, L., Chen, S., Li, W.,  
+*[DET: A High-resolution DVS Dataset for Lane Extraction](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Cheng_DET_A_High-Resolution_DVS_Dataset_for_Lane_Extraction_CVPRW_2019_paper.pdf),*  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Project page](https://spritea.github.io/DET/).
+- <a name="deTournemire20arxiv"></a>de Tournemire, P., Nitti, D., Perot, E., Migliore, D., Sironi, A.,  
+*[A Large Scale Event-based Detection Dataset for Automotive](https://arxiv.org/abs/2001.08499)*,  
+arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
 
 
 <br><br>
